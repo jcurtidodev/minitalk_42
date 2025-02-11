@@ -21,9 +21,15 @@ El servidor se encarga de recibir y mostrar mensajes enviados por el cliente, qu
 
 
 ## 🏗️ Compilación e Instalación
+⚠️ **IMPORTANTE** ⚠️
+Una vez clones `Minitalk`, debes clonar `libft` dentro del repositorio para que funcione.  
 
-Para compilar el proyecto, ejecuta:
 
+📂 minitalk/
+```
+git clone https://github.com/jcurtidodev/libft-42.git
+```
+Una vez hecho, continua haciendo:
 ```
 make
 ```
@@ -56,8 +62,11 @@ Ejemplo:
 ```C
 ./client 12345 "Hola, mundo!"
 ```
-Esto enviará la cadena _"Hola, mundo!"_ al servidor, que la mostrará en la salida estándar.
-
+Esto enviará la cadena _"Hola, mundo!"_ al servidor, que la mostrará en la salida estándar.  
+Te animo a probar distintos inputs, como por ejemplo:
+```C
+./client <PID_DEL_SERVIDOR> "$(man malloc)"
+```
 ## 🏗️ Estructura del Código
 ```Makefile
 📂 minitalk/
@@ -98,4 +107,4 @@ El proyecto solo permite el uso de las siguientes funciones:
 
 ## 🤝 Créditos
 
-Proyecto desarrollado por _`jcurtidodev`_ como parte del cursus de **42 School**.
+Proyecto desarrollado por **`jcurtidodev`** como parte del cursus de **42 School**.
