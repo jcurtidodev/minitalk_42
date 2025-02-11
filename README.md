@@ -19,6 +19,9 @@ El servidor se encarga de recibir y mostrar mensajes enviados por el cliente, qu
 ✅ Manejo de errores y **prevención de leaks de memoria**.
 
 
+## 📦 Requisitos
+- **libft**: Este proyecto utiliza la biblioteca `libft` para funciones estándar de C.
+
 
 ## 🖥️ Compilación e Instalación
 ⚠️ **IMPORTANTE** ⚠️
