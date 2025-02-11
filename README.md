@@ -4,7 +4,7 @@
 
 El servidor se encarga de recibir y mostrar mensajes enviados por el cliente, quien transmite una cadena de caracteres a través de señales.
 
-## 🛠️ Funcionalidades
+## 🎯 Funcionalidades
 
 ✅ El servidor muestra su **PID** al iniciarse.
 
