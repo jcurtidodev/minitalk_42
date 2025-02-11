@@ -106,7 +106,7 @@ El proyecto solo permite el uso de las siguientes funciones:
 
 - **Cero leaks de memoria**.
 
-- Solo se permite **una variable global por ejecutable//.
+- Solo se permite **una variable global por ejecutable**.
 
 ## 🤝 Créditos
 
