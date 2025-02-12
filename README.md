@@ -110,4 +110,4 @@ El proyecto solo permite el uso de las siguientes funciones:
 
 ## 🤝 Créditos
 
-Proyecto desarrollado por **`jcurtidodev`** como parte del cursus de **42 School**.
+Proyecto desarrollado por `jcurtidodev` como parte del cursus de **42 School**.
