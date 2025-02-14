@@ -30,7 +30,7 @@ Una vez clones `Minitalk`, debes clonar `libft` dentro del repositorio y nombrar
 
 📂 minitalk/
 ```
-git clone https://github.com/jcurtidodev/libft-42.git
+git clone https://github.com/jcurtidodev/libft-42.git libft
 ```
 Una vez hecho, continua haciendo:
 ```
