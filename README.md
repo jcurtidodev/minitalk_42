@@ -25,7 +25,7 @@ El servidor se encarga de recibir y mostrar mensajes enviados por el cliente, qu
 
 ## 🖥️ Compilación e Instalación
 ⚠️ **IMPORTANTE** ⚠️
-Una vez clones `Minitalk`, debes clonar `libft` dentro del repositorio para que funcione.  
+Una vez clones `Minitalk`, debes clonar `libft` dentro del repositorio y nombrarlo **libft** para que funcione.  
 
 
 📂 minitalk/
