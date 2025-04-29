@@ -24,8 +24,13 @@ El servidor se encarga de recibir y mostrar mensajes enviados por el cliente, qu
 
 
 ## 🖥️ Compilación e Instalación
-⚠️ **IMPORTANTE** ⚠️
-Una vez clones `Minitalk`, debes clonar `libft` dentro del repositorio y nombrarlo **libft** para que funcione.  
+> ⚠️ **Precaución**
+> Este proyecto está diseñado para compilarse y ejecutarse en un entorno **Linux**.  
+> Si trabajas desde Windows, asegúrate de usar **WSL (Windows Subsystem for Linux)** 
+> (o una máquina virtual) con los paquetes necesarios para hacer `cc` con flags y `make`.  
+> Otras plataformas (macOS, etc.) no están garantizadas y pueden requerir adaptaciones adicionales.
+> 
+> ⚠️ Una vez clones `Minitalk`, debes clonar `libft` dentro del repositorio y nombrarlo **libft** para que funcione.  
 
 
 📂 minitalk/
